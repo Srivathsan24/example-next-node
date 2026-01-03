@@ -8,10 +8,10 @@ frontend/out/
 backend/dist/
 
 # Environment variables
-frontend/.env.local
-frontend/.env.*.local
-backend/.env
-backend/.env.*.local
+# frontend/.env.local
+# frontend/.env.*.local
+# backend/.env
+# backend/.env.*.local
 
 # OS files
 .DS_Store
